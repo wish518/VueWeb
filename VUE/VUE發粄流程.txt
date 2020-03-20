@@ -1,0 +1,3 @@
+--mode:'history'
+需要安裝必要元件裡的exe檔
+必將web.cofig放在iis站台上
